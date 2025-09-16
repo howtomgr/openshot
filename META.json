@@ -1,0 +1,61 @@
+{
+  "category": "media-processing",
+  "created_date": "2025-09-15T22:48:58.563642",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "openshot is a free and open-source video editor. OpenShot provides easy-to-use video editor",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/media-processing/openshot",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/media-processing/openshot",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.563663",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "openshot",
+  "repository_url": "https://github.com/howtomgr/openshot",
+  "spec_version": "2.0",
+  "subcategory": "media-processing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "media-processing",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "multimedia"
+  ],
+  "title": "openshot Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/media-processing/openshot"
+}
